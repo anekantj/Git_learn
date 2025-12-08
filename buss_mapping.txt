@@ -1,1 +1,2 @@
 created the mapping until EDW Layer
+added few extra joins into this
