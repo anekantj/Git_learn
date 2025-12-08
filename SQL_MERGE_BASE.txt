@@ -1,0 +1,1 @@
+merge queries is based on two table
