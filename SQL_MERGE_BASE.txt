@@ -1,1 +1,2 @@
-merge queries is based on two table
+1.merge queries is based on two table
+2.it can perform multiple operations at a record level.
