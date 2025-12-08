@@ -1,0 +1,1 @@
+First we woudl need the ods layer table to be in GG sync to start with dev
