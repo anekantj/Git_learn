@@ -1,1 +1,2 @@
-this is  a devlopment work to understand stashing in git 
+this is  a devlopment work to understand stashing in git.
+this is another line of dev
