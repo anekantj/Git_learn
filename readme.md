@@ -1,1 +1,2 @@
-this is the line where i add a line via main as a branch.
+# Git_learn
+Learning git and moving the code remotely.
